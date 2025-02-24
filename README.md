@@ -41,5 +41,8 @@ This section is used to shortly and quickly explain the code.
 
 - **calculate_bond_energies funtion:** This calculates the bond energies by making us of the bonds, atoms and distances arrays. Something to pay attention to is that in order to get the actual atom we need to substract 1 to the bond index. Python starts at 0. The equation used is:
 
+     ![eq2](https://github.com/user-attachments/assets/57ee26da-5f3b-48d0-9b14-72ffab654946)
+
+
 
 
