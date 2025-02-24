@@ -1,6 +1,9 @@
 # ProgrammingProject_Homework_A_Serrano
-**Dynamics.pdf:** Álvaro Serrano López de la Vieja
+**Author:** Álvaro Serrano López de la Vieja
+
 This github is used by Álvaro Serrano to present the resolution of the ProgrammingProject Homework.
+
+The Python script presented aims to satisfy the requeriments of a program to perform structural optimization (geometry optimization) for molecular systems, using both Cartesian and internal coordinates. Here it is important to mention that this script is based on solving saturated hydrocarbon systems and will not work with other systems. The algorithm used to do the geometry optimization is the BFGS Algorithm. The final remarks are that all the steps proposed at the homework layout has been followed and achieved.
 
 
 
