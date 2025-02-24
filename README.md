@@ -15,11 +15,15 @@ The Python script presented aims to satisfy the requeriments of a program to per
 
 - **geometry_optimization_A_Serrano.py:** This is the Python code presented as the resolution of the homework.
 
-# Code Explanation
+# How do I use the code?
+This section is used to explain how to run the code.
 
-This section is used to shortly explain the key features of the code.
+First of all it would be necessary for you to download the Python script and the inputs directory. Once downloaded both files (script and directory) you will need to get them together in the same directory (1 directory containing the inputs directory and also containing the Python script). Then you will run the code by doing:
 
-**Below a breakdown of the code can be found.**
+```console
+python3 geometry_optimization_A_Serrano.py
+```
 
-## -Reading in the input-
-The first thing to do for our program to work is to read in the number of atoms, coordinates and mass for the specific molecule (input). The corresponding lines that perform these actions can be found next.
+Now the code will ask for an input inside the inputs directory, in case you want to study the ethane structure you will need to write ethane.mol2.
+
+The results are printed in the terminal.
