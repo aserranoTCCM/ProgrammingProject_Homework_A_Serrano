@@ -61,7 +61,9 @@ This section is used to shortly and quickly explain the code.
 
      ![eq6](https://github.com/user-attachments/assets/754ea749-b46e-4bdf-8944-f991507df729)
 
+- **calculate_b_matrix funtion:** This function calculates the B matrix as the explanation found on the pdf (not easy to explain with few words, on the examination session you can ask me about it).
 
+- **gradient funtions:** This functions are used to calculate the gradients for the distances, angles, dihedrals and Van der Waals energies.
 
 
 
