@@ -1,5 +1,19 @@
 # ProgrammingProject_Homework_A_Serrano
-In this repository the scrip presented by Álvaro Serrano regarding geometry optimization can be found.
+**Dynamics.pdf:** Álvaro Serrano López de la Vieja
+This github is used by Álvaro Serrano to present the resolution of the ProgrammingProject Homework.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Molecular Dynamics Directory
 
