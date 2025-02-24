@@ -69,7 +69,7 @@ This section is used to shortly and quickly explain the code.
 
 # Acknowledgment
 
-I would like to use this little space to thanks Jeremy Harvey from KU Leuven, as his help along the development of the script has been crucial.
+I would like to use this little space to thanks Jeremy Harvey from KU Leuven, as his help along the development of the script has been crucial for my understanding.
 
 
 
