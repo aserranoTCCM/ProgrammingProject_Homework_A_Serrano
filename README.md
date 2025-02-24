@@ -37,7 +37,7 @@ This section is used to shortly and quickly explain the code.
 
 - **calculate_bond_distances funtion:** In the bonds array the bonds are already specified. This function calculates the distance of each bond by going through all the bonds and using the equation:
 
-![eq](https://github.com/user-attachments/assets/fe834418-c5a6-4e95-bfdd-4342541c76be)
+     ![eq](https://github.com/user-attachments/assets/fe834418-c5a6-4e95-bfdd-4342541c76be)
 
 
 
