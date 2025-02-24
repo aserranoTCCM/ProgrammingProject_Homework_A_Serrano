@@ -43,6 +43,14 @@ This section is used to shortly and quickly explain the code.
 
      ![eq2](https://github.com/user-attachments/assets/57ee26da-5f3b-48d0-9b14-72ffab654946)
 
-- **calculate_angles funtion:** This function calculates the present angles making sure they are not repeated and checking for a common atom.
+- **calculate_angles funtion:** This function calculates the present angles making sure they are not repeated and checking for a common atom. The equation used can be found on the pdf.
+
+- **calculate_angle_energies funtion:** This function calculates the energy of the angles using some parameters and the following equation:
+
+     ![eq3](https://github.com/user-attachments/assets/d84cbe24-dd69-44d0-b235-d229fbf170a7)
+
+
+
+
 
 
