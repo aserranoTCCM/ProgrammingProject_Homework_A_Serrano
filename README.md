@@ -49,7 +49,9 @@ This section is used to shortly and quickly explain the code.
 
      ![eq3](https://github.com/user-attachments/assets/d84cbe24-dd69-44d0-b235-d229fbf170a7)
 
+- **calculate_dihedral_angles funtion:** This function calculates the dihedral angles using a similar logic than before for the angles.
 
+- **calculate_dihedral_energies funtion:** This function calculates the dihedral energy terms as the following equation:
 
 
 
