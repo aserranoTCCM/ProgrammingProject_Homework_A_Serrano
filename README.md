@@ -15,13 +15,9 @@ The Python script presented aims to satisfy the requeriments of a program to per
 
 - **geometry_optimization_A_Serrano.py:** This is the Python code presented as the resolution of the homework.
 
-
-
-
 # Code Explanation
 
-This section is used to explain the key features of the code.
-
+This section is used to shortly explain the key features of the code.
 
 **Below a breakdown of the code can be found.**
 
