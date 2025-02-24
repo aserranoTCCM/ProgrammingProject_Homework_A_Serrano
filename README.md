@@ -67,7 +67,9 @@ This section is used to shortly and quickly explain the code.
 
 - **bfgs_geometry_optimization funtions:** These 2 functions is where the optimization algorithm is applied. They follow the instructions of the pdf, for more information ask the author of the script directly.
 
+# Acknowledgment
 
+I would like to use this little space to thanks Jeremy Harvey from KU Leuven, as his help along the development of the script has been crucial.
 
 
 
