@@ -43,6 +43,6 @@ This section is used to shortly and quickly explain the code.
 
      ![eq2](https://github.com/user-attachments/assets/57ee26da-5f3b-48d0-9b14-72ffab654946)
 
-
+- **calculate_angles funtion:** This function calculates the present angles making sure they are not repeated and checking for a common atom.
 
 
