@@ -53,6 +53,7 @@ This section is used to shortly and quickly explain the code.
 
 - **calculate_dihedral_energies funtion:** This function calculates the dihedral energy terms as the following equation:
 
+     ![eq5](https://github.com/user-attachments/assets/ee87841c-6cd6-462b-a17e-d48c7bfd9dfa)
 
 
 
