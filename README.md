@@ -63,7 +63,9 @@ This section is used to shortly and quickly explain the code.
 
 - **calculate_b_matrix funtion:** This function calculates the B matrix as the explanation found on the pdf (not easy to explain with few words, on the examination session you can ask me about it).
 
-- **gradient funtions:** This functions are used to calculate the gradients for the distances, angles, dihedrals and Van der Waals energies.
+- **gradient funtions:** These functions are used to calculate the gradients for the distances, angles, dihedrals and Van der Waals energies.
+
+- **bfgs_geometry_optimization funtions:** These 2 functions is where the optimization algorithm is applied. They follow the instructions of the pdf, for more information ask the author of the script directly.
 
 
 
