@@ -55,5 +55,15 @@ This section is used to shortly and quickly explain the code.
 
      ![eq5](https://github.com/user-attachments/assets/ee87841c-6cd6-462b-a17e-d48c7bfd9dfa)
 
+- **calculate_all_unique_distances funtion:** This is used to get the distances used for the Van Der Waals. This is similar to the bond distances calculation but excluding the bond set and bonds 1 atom apart.
+
+- **calculate_lennard_jones_energy funtion:** This is used to calculate the Van der Waals energy terms. The equation is the following one:
+
+     ![eq6](https://github.com/user-attachments/assets/754ea749-b46e-4bdf-8944-f991507df729)
+
+
+
+
+
 
 
