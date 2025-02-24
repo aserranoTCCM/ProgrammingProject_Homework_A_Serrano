@@ -33,4 +33,6 @@ The results are printed in the terminal.
 # Explanation of the code
 This section is used to shortly and quickly explain the code.
 
+- **parse_molecule_file funtion:** This function is used to get the atoms, coordinates and bonds arrays from an input. It devides all the lines of the file excluding the first one in parts (columns) and depending the length of columns it saves the data in one of the arrays.
 
+- **calculate_bond_distances funtion:** In the bonds array the bonds are already specified. This function calculates the distance of each bond by going through all the bonds and using the equation:
