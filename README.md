@@ -27,3 +27,7 @@ python3 geometry_optimization_A_Serrano.py
 Now the code will ask for an input inside the inputs directory, in case you want to study the ethane structure you will need to write ethane.mol2.
 
 The results are printed in the terminal.
+
+This printes the results using Internal Coordinates, in case you want to get the results using Cartesian Coordinates it would be necessary to uncomment the lines for Cartesian Coordiantes and now comment all the lines for the Internal Coordinates
+
+# Explanation of the code
