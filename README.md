@@ -5,38 +5,17 @@ This github is used by Álvaro Serrano to present the resolution of the Programm
 
 The Python script presented aims to satisfy the requeriments of a program to perform structural optimization (geometry optimization) for molecular systems, using both Cartesian and internal coordinates. Here it is important to mention that this script is based on solving saturated hydrocarbon systems and will not work with other systems. The algorithm used to do the geometry optimization is the BFGS Algorithm. The final remarks are that all the steps proposed at the homework layout has been followed and achieved.
 
+**A breakdown of each file contained in the repository can be found below.**
+
+- **geom_opt_notes_2024.pdf:** This is the pdf file followed in order to fulfill the homework. Important ideas inside the pdf file are highlighted.
+
+- **inputs directory:** This directory stores all the inputs used to test the code.
+
+- **outputs directory:** This directory stores all the outputs provided by the professor and used to compare with the results of the code.
+
+- **geometry_optimization_A_Serrano.py:** This is the Python code presented as the resolution of the homework.
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Molecular Dynamics Directory
-
-This directory contains all the relevant files for project 3.
-
-Project 3 consists on the creation of a C code which purpose is to illustrate key concepts in MD simulations.
-
-**A breakdown of each file can be found below.**
-
-- **INSTALL.md:** The purpose of this file is to bring clear instructions on how to compile and run the program. In addition a short explanation of how to use github will be given as well.
-
-- **Dynamics.pdf:** This is the file from where the instructions of how to make the Molecular Dynamic code have been followed. In it we can find all the formulas and algorithm used.
-
-- **Inputs directory:** This directory is used to store all the input used to test the code. It it we can find the original Ar input as well as other ones.
-
-- **Tests directory:** This directory is used to store all the trajectories calculated with the code. The purpose of each trajectory is to later on use it on an external software to visualize the dynamic.
-
-- **SRC directory:** This directory is used to store all the relevant source files of the program. The C code can be found inside this directory.
-
-- **Authors.md:** In this file, all the collaborators that have worked on the code can be found.
 
 
 # Code Explanation
